@@ -13,7 +13,7 @@
         <maven.surefire.version>2.9</maven.surefire.version>
         <java.version>1.8</java.version>
         <log4j.version.api>2.13.3</log4j.version.api>
-        <log4j.version.core>2.13.3</log4j.version.core>
+        <log4j.version.core>2.16.0</log4j.version.core>
     </properties>
 
     <dependencies>
